@@ -1,4 +1,4 @@
-module github.com/theblitlabs/go-keystore
+module github.com/theblitlabs/keystore
 
 go 1.21
 
