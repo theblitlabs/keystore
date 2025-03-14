@@ -14,7 +14,7 @@ import (
 
 const (
 	// DefaultDirName is the default directory name for the keystore
-	DefaultDirName = ".keystore"
+	DefaultDirName = ".parity"
 
 	// DefaultFileName is the default file name for the keystore
 	DefaultFileName = "keystore.json"
