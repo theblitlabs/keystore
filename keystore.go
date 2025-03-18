@@ -20,10 +20,10 @@ const (
 	DefaultFileName = "keystore.json"
 
 	// DefaultFileMode is the default file permissions for the keystore file
-	DefaultFileMode = 0600
+	DefaultFileMode = 0o600
 
 	// DefaultDirMode is the default directory permissions for the keystore directory
-	DefaultDirMode = 0700
+	DefaultDirMode = 0o700
 
 	// TokenExpiryDuration is the duration after which a token is considered expired
 	TokenExpiryDuration = 1 * time.Hour
